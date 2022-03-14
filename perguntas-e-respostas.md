@@ -44,7 +44,7 @@ Você pode iniciar um diretório local e torná-lo um diretório git, ou, você 
 git init
 ```
 
-## Qual é o comando par escrever uma mensagem de commit?
+## Qual é o comando para escrever uma mensagem de commit?
 ```bash
 git commit -m "escreva sua mensagem de commit"
 ```
